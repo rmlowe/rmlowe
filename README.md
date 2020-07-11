@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my [dashboard of COVID-19 cases by country](https://foreignvir.us/). (Source code [here](https://github.com/rmlowe/covid-19-geo-dist)).
+
 <!--
 **rmlowe/rmlowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
