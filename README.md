@@ -1,4 +1,4 @@
-# Projects
+### Projects
 
 The projects below have been experimentally determined to be safe for consumption by adult humans.
 
